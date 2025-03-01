@@ -1,0 +1,106 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# Logs
+logs/
+*.log
+yarn-error.log
+lerna-debug.log
+.log/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+
+# Build and cache files
+dist/
+build/
+.cache/
+out/
+coverage/
+.tmp/
+*.pid
+*.seed
+*.pid.lock
+
+# Debugging files
+*.swp
+*.swo
+
+# Miscellaneous
+*.tgz
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# TypeScript
+*.tsbuildinfo
+
+# Python-related ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+*.pkl
+.mypy_cache/
+.pytest_cache/
+*.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Java (if applicable)
+target/
+*.class
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+*.mdb
+
+# Mac/Linux generated files
+*.bak
+*.swp
+*~
+/data
+/em
+/emodetect
+/emotion
+/emotion-detection
+/images
